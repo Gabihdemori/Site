@@ -39,8 +39,7 @@ O XP preza pelo trabalho em equipe e a padronização, nesse caso, é uma das me
 O fluxo abaixo ilustra o fluxo da Metodologia Extreme Programming:
 <p align="center"><img src= "">
 
-<p align="center"><img src="https://blog.xpeducacao.com.br/wp-content/uploads/2022/04/esquema-sobre-o-extreme-programming-1024x432.png
-" style="width:px">
+<p align="center"><img src="https://blog.xpeducacao.com.br/wp-content/uploads/2022/04/esquema-sobre-o-extreme-programming-1024x432.png" style="width:px">
 
 
 <p align="center">fonte: https://blog.xpeducacao.com.br/
